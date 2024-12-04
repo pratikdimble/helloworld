@@ -1,0 +1,38 @@
+#Create README.md
+
+
+touch README.md
+
+
+Add some text
+
+
+echo "Hello World"> README.md
+
+
+git status
+
+
+git add README.md
+
+
+git status
+On branch main
+
+
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+
+
+
+
+git config --global user.name "username"
+git config --global user.email "useremail@example.com"
+
+
+git commit -m "This is my first commit"
+
+
+Use readme.so's markdown editor and templates to easily create a ReadMe for your projects
